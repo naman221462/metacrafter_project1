@@ -1,5 +1,5 @@
 let nfts = [];
-
+console.log("ID: ","l43qoekd98m")
 function mintNFT(name, description, creator) {
     let nft = {
         name: name,
